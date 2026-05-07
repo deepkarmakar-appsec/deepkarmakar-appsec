@@ -1,8 +1,3 @@
-Haan, GitHub stats bhi hata sakte ho.
-Actually security-focused profiles me clean minimalist README zyada professional lagta hai compared to overloaded stats/cards.
-
-Best clean structure:
-
 # 💫 Hi 👋, I'm Deep Karmakar
 
 ### 🔐 Application Security • ☁️ Cloud Security • 🚀 DevSecOps
