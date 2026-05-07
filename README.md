@@ -1,48 +1,38 @@
+Haan, GitHub stats bhi hata sakte ho.
+Actually security-focused profiles me clean minimalist README zyada professional lagta hai compared to overloaded stats/cards.
+
+Best clean structure:
+
 # 💫 Hi 👋, I'm Deep Karmakar
 
 ### 🔐 Application Security • ☁️ Cloud Security • 🚀 DevSecOps
 
-> Passionate about secure applications, cloud infrastructure, and modern security concepts.
+> Passionate about secure applications and modern security concepts.
 
 ---
 
 # 🚀 About Me
 
-- 🔭 Building secure applications using **PHP, Laravel, MySQL, Docker, and Linux**
-- 🌱 Learning **Application Security, Cloud Security, and DevSecOps**
-- 💻 Practicing **DSA in C++**
-- ⚡ Interested in secure system design and vulnerability research
+- 🔭 Building secure applications using PHP, Laravel, MySQL, Docker & Linux
+- 🌱 Learning Application Security, Cloud Security & DevSecOps
+- 💻 Practicing DSA in C++
+- ⚡ Interested in secure infrastructure & backend security
 
 ---
 
-# 🔐 Interests
+# 🔐 Security Focus
 
+## 🛡️ Application Security
 - OWASP Top 10
 - Authentication Security
 - Session Security
+- XSS & SQL Injection
+
+## ☁️ Cloud & DevSecOps
 - Docker Security
+- CI/CD Security
 - Cloudflare & WAF
-- Secure Infrastructure
-
----
-
-# 🚀 Projects
-
-## 🔐 VaultScribe Secure Notes App
-
-- OTP Verification
-- Google 2FA
-- Encrypted Notes
-- Docker Deployment
-
----
-
-## 🌦️ PHP Weather Auth App
-
-- Authentication System
-- CSRF Protection
-- Session Security
-- XSS Protection
+- Azure VPS Hardening
 
 ---
 
@@ -58,20 +48,20 @@
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: **https://linkedin.com/in/deepkarmakar-appsec**
-- 💻 GitHub: **https://github.com/deepkarmakar-appsec**
-- 🧠 LeetCode: **https://leetcode.com/u/deepkarmakar-appsec/**
+- 💼 LinkedIn: https://linkedin.com/in/deepkarmakar-appsec
+- 💻 GitHub: https://github.com/deepkarmakar-appsec
+- 🧠 LeetCode: https://leetcode.com/u/deepkarmakar-appsec/
 
 ---
 
-# 📊 GitHub Stats
+# 🐍 Contribution Snake
 
-![](https://github-readme-stats.vercel.app/api?username=deepkarmakar-appsec&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepkarmakar-appsec&theme=dark&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 # 🚀 Final One Line
 
-Learning and building secure applications with Application Security, Cloud Security, and DevSecOps concepts.
+Learning and building secure applications with Application Security, Cloud Security & DevSecOps.
