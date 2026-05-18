@@ -1,81 +1,58 @@
-# 💫 Hi 👋, I'm Deep Karmakar
+Hi 👋, I'm Deep Karmakar
 
-### 🔐 Application Security • ☁️ Cloud Security • 🚀 DevSecOps
+🔐 Application Security • ☁️ Cloud Security • 🚀 DevSecOps
 
-> Passionate about secure applications and modern security concepts.
+I build and secure Laravel applications with a focus on infrastructure hardening, runtime monitoring, cloud security, and DevSecOps automation.
 
----
+Currently focused on:
 
-# 🚀 About Me
-
-# 🚀 About Me
-
-- 🔭 Building secure and scalable applications using **PHP, Laravel, MySQL, Docker, Linux, and Nginx**
-- ☁️ Working on **Cloud Security, DevSecOps, Infrastructure Hardening, and Secure Deployments**
-- 🛡️ Implementing real-world security practices including **WAF, Fail2Ban, Security Headers, Rate Limiting, and Authentication Security**
-- 🚀 Deploying and managing applications on **Azure VPS** with Dockerized environments and CI/CD pipelines
-- 💻 Practicing **Data Structures & Algorithms in C++**
-- ⚡ Passionate about backend architecture, application security, and production-grade infrastructure
+- Application Security
+- Cloud & Infrastructure Security
+- Runtime Monitoring & Detection
+- Secure CI/CD Pipelines
+- Linux & Docker Security
 
 ---
 
-# 🔐 Security & DevSecOps Focus
+🚀 Featured Project — VaultScribe
 
-## 🛡️ Application Security
-- OWASP Top 10
-- Authentication & Session Security
-- XSS, SQL Injection & CSRF Prevention
-- Secure Password Storage (Argon2id + Pepper)
-- 2FA & OTP Security
-- Secure Cookie & Session Handling
-- Rate Limiting & Abuse Protection
+A security-focused Laravel platform deployed on a hardened Azure VM.
 
-## ☁️ Cloud Security & DevSecOps
-- Docker & Container Security
-- CI/CD Security Pipelines
-- GitHub Actions Automation
-- Azure VPS Hardening
-- Linux Server Security
-- Nginx Security Hardening
-- Cloudflare WAF & DDoS Protection
-- Reverse Proxy & HTTPS Setup
+Key Security Features
 
-## 🔍 Security Monitoring & Detection
-- Fail2Ban Intrusion Prevention
-- Log Monitoring & Attack Detection
-- Rootkit Detection (rkhunter & chkrootkit)
-- Lynis Security Auditing
-- Grafana + Loki Monitoring
-- Cron-based Security Automation
+- Argon2id + pepper password hardening
+- Google Authenticator based 2FA
+- AES-256 encrypted notes
+- ModSecurity + OWASP CRS WAF
+- Cloudflare protection & rate limiting
+- Fail2Ban intrusion prevention
+- Falco runtime threat detection
+- Grafana + Loki centralized logging
+- Real-time email & Telegram alerts
+- GitHub Actions DevSecOps pipeline
 
-## ⚙️ Infrastructure & Backend
-- REST API Development
-- Laravel Backend Architecture
-- MySQL Database Management
-- Docker Compose Deployments
-- Linux Networking Fundamentals
-- Secure Production Deployments
-- Server Monitoring & Maintenance
+Security Tooling
+
+CodeQL • Semgrep • Trivy • Snyk • OWASP ZAP • Gitleaks • Lynis • RKHunter
 
 ---
 
-# 🚀 DevSecOps & Security Tools
+💻 Tech Stack
 
-- Docker
-- Git & GitHub
-- GitHub Actions
-- Semgrep
-- Snyk
-- Trivy
-- OWASP ZAP
-- Cloudflare
-- Nginx
-- Fail2Ban
-- UFW Firewall
-- Grafana
-- Loki
-- ModSecurity
-- Lynis
+PHP • Laravel • MySQL • Docker • Linux • Nginx • Azure • GitHub Actions
+
+---
+
+🌐 Connect With Me
+
+💼 LinkedIn
+https://linkedin.com/in/deepkarmakar-appsec
+
+💻 GitHub
+https://github.com/deepkarmakar-appsec
+
+🧠 LeetCode
+https://leetcode.com/u/deepkarmakar-appsec/
 
 # 💻 Tech Stack
 
@@ -86,12 +63,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-# 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/deepkarmakar-appsec
-- 💻 GitHub: https://github.com/deepkarmakar-appsec
-- 🧠 LeetCode: https://leetcode.com/u/deepkarmakar-appsec/
 
 ---
 
